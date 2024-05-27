@@ -106,6 +106,45 @@ List of NPM Requirement to make this app work
 
 ## Screenshots
 
-![Static Badge](https://img.shields.io/badge/in%20Dev-orange?style=flat) Current not available
+<p align="center">
+	<img src="temp/SS1.jpg" alt="Main Homepage">
+	<br>
+	<em>Main Homepage</em>
+</p>
+<p align="center">
+	<img src="temp/SS2.jpg" alt="Main Homepage with Character L2D Active">
+	<br>
+	<em>Main Homepage with Character L2D Active</em>
+</p>
+<p align="center">
+	<img src="temp/SS3.jpg" alt="World Clock Page">
+	<br>
+	<em>World Clock</em>
+</p>
+<p align="center">
+	<img src="temp/SS4.jpg" alt="Database List Page">
+	<br>
+	<em>Database Page</em>
+</p>
+<p align="center">
+	<img src="temp/SS5.jpg" alt="Waifu List Page">
+	<br>
+	<em>Waifu List Page</em>
+</p>
+<p align="center">
+	<img src="temp/SS6.jpg" alt="Anime List Page">
+	<br>
+	<em>Anime List Page</em>
+</p>
+<p align="center">
+	<img src="temp/SS7.jpg" alt="Bookmark Page">
+	<br>
+	<em>Bookmark Page</em>
+</p>
+<p align="center">
+	<img src="temp/SS8.jpg" alt="Settings Page">
+	<br>
+	<em>Settings Page</em>
+</p>
 
 ------
