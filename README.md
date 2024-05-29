@@ -1,4 +1,8 @@
-# ISEPHYR ![Static Badge](https://img.shields.io/badge/Version-isephyr%201.4%CE%B2-blue?style=flat)
+<p align="center">
+	<img src="temp/isephyr_logo.png" alt="Isephyr App Logo">
+</p>
+
+# ISEPHYR ![Static Badge](https://img.shields.io/badge/Version-isephyr%201.8%CE%B2-blue?style=flat)
 
 
 Isephyr is a *__"GAME USER INTERFACE BASED PERSONALIZED APPLICATION"__*.
